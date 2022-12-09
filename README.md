@@ -1,3 +1,3 @@
 # Student portfolio
 
-Hey welcome to portfolio! i have creadted html with tanay pratap !
+Hey welcome to HTML  and css portfolio,  hwich have been learnt with tanay pratap!
